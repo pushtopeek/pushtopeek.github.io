@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Download!!](http://app.pushtopeek.com/MyFirstApp.apk)
+Download from your Android: [http://app.pushtopeek.com/MyFirstApp.apk](http://app.pushtopeek.com/MyFirstApp.apk)
 
 <img src="https://avatars1.githubusercontent.com/u/12124806?v=3&s=200"/>
 

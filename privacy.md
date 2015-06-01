@@ -12,8 +12,6 @@ Your privacy is critically important to us. At Push-to-Peek we have a few fundam
 
  - We don't store personal information on our servers unless required for the on-going operation of one of our services.
 
-In our blogging products, we aim to make it as simple as possible for you to control what's visible to the public, seen by search engines, kept private, and permanently deleted.
-
 Below is our privacy policy which incorporates these goals:
 
 If you have questions about deleting or correcting your personal data please contact our support team.
